@@ -18,7 +18,7 @@
         "name": "Patex Token",
         "symbol": "PATEX",
         "decimals": 18,
-        "logoURI": "https://github.com/monarchfinance/bexifyswaplist/blob/main/PATEX.png"
+        "logoURI": "https://raw.githubusercontent.com/monarchfinance/bexifyswaplist/main/PATEX.svg"
         }],
     "version": {
     "major": 1,
