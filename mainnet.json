@@ -1,0 +1,28 @@
+{
+    "name": "Mainnet List",
+    "logoURI": "https://raw.githubusercontent.com/monarchfinance/bexifyswaplist/main/logo-purple.svg",
+    "keywords": [
+        "token", "patex", "WETH"
+    ],
+    "timestamp": "2023-08-22T00:00:00.000+00:00",
+    "tokens": [{
+        "chainId": 789,
+        "address": "0x832DBd840aE3CbBc2eF9290f8B65FaBaDA13835e",
+        "name": "Wrapped ETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/monarchfinance/bexifyswaplist/main/ethereum-svgrepo-com.svg"
+        },{
+        "chainId": 789,
+        "address": "0xfd4f2caf941b6d737382dce420b368de3fc7f2d4",
+        "name": "Patex Token",
+        "symbol": "PATEX",
+        "decimals": 18,
+        "logoURI": "https://github.com/monarchfinance/bexifyswaplist/blob/main/PATEX.png"
+        }],
+    "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+}
+}
