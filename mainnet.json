@@ -19,7 +19,7 @@
         "symbol": "PATEX",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/monarchfinance/bexifyswaplist/main/PATEX.svg"
-        },,{
+        },{
         "chainId": 789,
         "address": "0x5578cB39fc3E3E4Ad2eC973d49785F127534057a",
         "name": "Token",
