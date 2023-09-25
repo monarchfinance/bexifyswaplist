@@ -19,10 +19,17 @@
         "symbol": "PATEX",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/monarchfinance/bexifyswaplist/main/PATEX.svg"
+        },,{
+        "chainId": 97,
+        "address": "0x832DBd840aE3CbBc2eF9290f8B65FaBaDA13835e",
+        "name": "Wrapped BNB",
+        "symbol": "WBNB",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/monarchfinance/bexifyswaplist/main/wbnb-logo.svg"
         }],
     "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
 }
 }
